@@ -1,2 +1,2 @@
 # cross-domain-invoker
-I JQuery plugin for resolving cross-domain issues
+A JQuery plugin for resolving cross-domain issues
